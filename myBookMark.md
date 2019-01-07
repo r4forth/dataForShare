@@ -1,3 +1,9 @@
+# MIS
+
+## 資訊 Blog
+
+01. [布丁布丁吃什麼?](http://blog.pulipuli.info/)
+
 # 中文技術
 
 ## 軟體工具
@@ -13,6 +19,9 @@
 01. [小小輸入法](http://yongim.ys168.com/)
 01. [網頁輸入法](http://yong.dgod.net/webim/index.html)
 01. [注音輸入法、輕鬆輸入法、無蝦米輸入法、倉頡、大易、免安裝輸入法的使用說明及下載](https://blog.xuite.net/cm.todo/todo/36042608-%E6%B3%A8%E9%9F%B3%E8%BC%B8%E5%85%A5%E6%B3%95%E3%80%81%E8%BC%95%E9%AC%86%E8%BC%B8%E5%85%A5%E6%B3%95%E3%80%81%E7%84%A1%E8%9D%A6%E7%B1%B3%E8%BC%B8%E5%85%A5%E6%B3%95%E3%80%81%E5%80%89%E9%A0%A1%E3%80%81%E5%A4%A7%E6%98%93%E3%80%81%E5%85%8D%E5%AE%89%E8%A3%9D%E8%BC%B8%E5%85%A5%E6%B3%95%E7%9A%84%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E%E5%8F%8A%E4%B8%8B%E8%BC%89)
+01. [自己的輸入法自己做](http://a-bee.myweb.hinet.net/)
+01. [中文輸入法小站](http://roc.myweb.hinet.net/cinput/)
+
 
 ## 系統服務
 
@@ -40,3 +49,46 @@
 01. [Ohio University ChinaLINKS](https://chinalinks.osu.edu/c-links5/chinese)
 01. []()
 01. []()
+
+# 遊戲
+
+## 模擬器
+
+01. [JSNES](https://jsnes.org/)
+
+
+# 程式設計與開發
+
+## ITHome 鐵人賽精選
+
+01. [Access VBA的眉眉角角](https://ithelp.ithome.com.tw/users/20007221/ironman/1071?page=1)
+01. [Access VBA 之 iT管理實做](https://ithelp.ithome.com.tw/users/20007221/ironman/2098)
+01. [遊戲之美 - 連連看經典遊戲開發](https://ithelp.ithome.com.tw/users/20107113/ironman/1624)
+01. []()
+
+## Emoji
+
+01. [Emojis in Javascript](https://thekevinscott.com/emojis-in-javascript/)
+01. []()
+01. []()
+01. []()
+
+
+## Python
+
+### Django
+
+01. [Django Girls 官方教材中譯版](https://github.com/CarolHsu/tutorial)
+
+# 符式語言
+
+01. [Brad Nelson ForthHaiku](http://bradn123.github.io/)
+01. [FTP Taygeta](ftp://ftp.taygeta.com/pub/)
+01. []()
+01. []()
+01. []()
+
+# 樹梅派
+
+01. [MakerPro 自造達人社群](https://makerpro.cc/)
+02. [HighLowTech](http://highlowtech.org/)
