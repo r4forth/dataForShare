@@ -4,6 +4,13 @@
 
 01. [布丁布丁吃什麼?](http://blog.pulipuli.info/)
 
+## UEFI 與 BIOS
+
+## WinPE 技術
+
+01. [無優啟動論壇](http://bbs.wuyou.net/forum.php)
+
+
 # 中文技術
 
 ## 軟體工具
@@ -59,6 +66,39 @@
 
 # 程式設計與開發
 
+## 程式基礎
+
+01. [計算機概論 16 講](https://bcc16.ncu.edu.tw/)
+01. [嘉義高中_高中資訊能力競試歷屆考題](http://cs.cysh.cy.edu.tw/competition/problem_set.php)
+01. [板橋高中校內培訓講義](https://docs.google.com/document/d/1A5pBTSSr-jyMsh5vCIEZhGN9W5VEFs8Z_G_u5OLsYJ0/edit?pli=1)
+01. [建國中學2015年資訊科培訓網站](http://pisces.ck.tp.edu.tw/~peng/index.php)
+01. [約爾談軟體](http://local.joelonsoftware.com/mediawiki/index.php/%E9%A6%96%E9%A0%81)
+02. [BigEndian 和 Little Endian 的比較](http://www.prudentman.idv.tw/2007/11/big-endianlittle-endian.html)
+
+## 演算法
+
+01. [師大演算法筆記](http://www.csie.ntnu.edu.tw/~u91029/)
+01. [LUCKY 貓的UVA(ACM)園地](http://luckycat.kshs.kh.edu.tw/)
+
+
+## 文件整理
+
+01. [極客書_最實用的編程基礎教程集](http://tw.gitbook.net/index.html)
+
+## 教學網站
+
+01. [W3SCHOOL](https://www.w3schools.com/)
+01. [菜鳥教程](http://www.runoob.com/)
+01. [180 websites in 180 days.](https://jenniferdewalt.com/index.html)
+
+
+## JavaScript
+
+01. [我要成為前端工程師！給 JavaScript 新手的建議與學習資源整理](https://blog.miniasp.com/post/2016/02/02/JavaScript-novice-advice-and-learning-resources.aspx)
+01. []()
+01. []()
+
+
 ## ITHome 鐵人賽精選
 
 01. [Access VBA的眉眉角角](https://ithelp.ithome.com.tw/users/20007221/ironman/1071?page=1)
@@ -69,7 +109,7 @@
 ## Emoji
 
 01. [Emojis in Javascript](https://thekevinscott.com/emojis-in-javascript/)
-01. []()
+01. [CJK Annotations](https://unicode.org/cldr/charts/dev/annotations/cjk.html)
 01. []()
 01. []()
 
