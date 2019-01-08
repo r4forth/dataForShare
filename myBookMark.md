@@ -80,6 +80,10 @@
 
 01. [Django Girls 官方教材中譯版](https://github.com/CarolHsu/tutorial)
 
+## 數值分析
+
+01. [吳漢銘_數值分析](http://www.hmwu.idv.tw/index.php/teaching/234)
+
 # 符式語言
 
 01. [Brad Nelson ForthHaiku](http://bradn123.github.io/)
@@ -92,3 +96,36 @@
 
 01. [MakerPro 自造達人社群](https://makerpro.cc/)
 02. [HighLowTech](http://highlowtech.org/)
+
+# R 語言
+
+## 軟體下載
+
+## 套件官網與說明文件
+
+## 教學 Blog
+
+## 教學講義
+
+01. [吳漢銘_電腦概論與程式設計](http://www.hmwu.idv.tw/index.php/107-1-r)
+01. [吳漢銘_R軟體教學](http://www.hmwu.idv.tw/index.php/r-software)
+01. [R Tutorials](http://ww2.coastal.edu/kingw/statistics/R-tutorials/index.html)
+01. [實驗樓_R語言課程](https://www.shiyanlou.com/courses/?category=all&course_type=all&fee=all&unfold=1&tag=R&order=latest)
+01. [億聚網_R語言課程](https://www.1ju.org/r/index)
+
+## 線上學習
+
+01. [資策會_數位學習平台](https://openedx.iiiedu.org.tw/)
+01. []()
+
+## 中文訊息處理與編碼
+
+01. [R 繪圖與中文字型:在圖形中加入中文解決亂碼問題](https://blog.gtwang.org/r/how-to-use-your-favorite-fonts-in-r-charts/)
+
+## 硬體相關
+
+01. [Reading Arduino data directly into R](https://magesblog.com/post/2015-02-17-reading-arduino-data-directly-into-r/)
+
+## 資料 API
+
+01. [公共運輸整合資訊流通服務平台](https://ptx.transportdata.tw/PTX)
