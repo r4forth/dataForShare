@@ -1,13 +1,78 @@
 # MIS
 
+## 驅動程式
+
+01. [安裝不知道硬體型號的驅動程式](http://cypresslin.web.fc2.com/Memo/M-WinDriver.html)
+01. [Thomas-Krenn-Wiki](https://www.thomas-krenn.com/en/wiki/Main_Page)
+
+
+## 軟體下載
+
+01. [舊軟體下載 WinWorldLibrary](https://winworldpc.com/library/operating-systems)
+02. []()
+
 ## 資訊 Blog
 
+01. [GTWang](https://blog.gtwang.org/)
+01. [OLS3臥龍小三](https://www.ols3.net/)
+01. [頭城國小資訊組](http://blog.ilc.edu.tw/blog/blog/25793)
+01. [MIS的背影](https://blog.pmail.idv.tw/)
+01. [MIS文件手扎](http://blog.pmail.idv.tw/misdoc/)
+01. [Hoyo 樂咖黑的資訊生活](https://www.hoyo.idv.tw)
 01. [布丁布丁吃什麼?](http://blog.pulipuli.info/)
+01. [風月無邊](http://izaka.tw/)
+
+## 資訊安全
+
+01. [TWNIC WHOIS]()
+01. [TWNIC]()
+01. [行政院國家資通安全會報]()
+01. [國家資通安全通報應變網站]()
+01. [國家資通安全會報技術服務中心]()
+01. [臺灣學術網路危機處理中心]()
+
+## 運維 DevOPS
+
+01. [ServerFault](https://serverfault.com/)
+01. [運維生存時間](http://www.ttlsa.com/)
+01. [運維網](https://www.iyunv.com/portal.php)
+01. [All AWESOME Linux Application And Tools](https://www.fossmint.com/awesome-linux-software/?utm_content=bufferde5c8&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+01. [Script Magics](http://jeffskinnerbox.me/)
+01. [ServerWorld(JP/EN)](https://www.server-world.info/en/)
+01. [Ops 運維工具](http://www.opstool.com/)
+01. [運維派](http://www.yunweipai.com/)
+
+## 虛擬機
+
+01. [VMWare ESXi Patcher](https://esxi-patches.v-front.de/)
+01. [QEMU]()
+01. [virtuallyGhetto](https://www.virtuallyghetto.com/)
+01. []()
+01. []()
+01. []()
+01. []()
+
+
+## MacOS
+
+01. [OldMac 維修(EN)](http://www.applerepairmanuals.com/)
+01. [OldMac 維修資料(JP)](http://www.geocities.co.jp/SiliconValley-SanJose/7030/)
+01. [MacOS 舊時代的BBS軟體](http://www.ios.com.tw/article.php?id=688)
+01. [Macintosh Garden軟體集散地](http://macintosh463.rssing.com)
+01. [MacOS早期作業系統下載](http://www.mackido.com/History/EarlyMacOS.html)
+01. [MacOS早期作業系統下載II](http://home.earthlink.net/~gamba2/index.html)
+01. [MacOS 應用軟體多國語系下載](http://asa.max1zzz.co.uk/)
+01. [EveryMac](https://everymac.com)
+01. [各類程式語言應用軟體辭典手冊(JP)](http://www.openspc2.org/)
+01. []()
 
 ## UEFI 與 BIOS
 
+01. [EFI/UEFI BIOS 入門 : All For Beginners](http://stenlyho.blogspot.com/2008/09/efiuefi-bios-all-for-beginners-url.html)
+
 ## WinPE 技術
 
+01. [Windows7 x64 SP1 更新整合光碟製作](http://izaka.tw/w7sp2/)
 01. [無優啟動論壇](http://bbs.wuyou.net/forum.php)
 
 
@@ -73,7 +138,8 @@
 01. [板橋高中校內培訓講義](https://docs.google.com/document/d/1A5pBTSSr-jyMsh5vCIEZhGN9W5VEFs8Z_G_u5OLsYJ0/edit?pli=1)
 01. [建國中學2015年資訊科培訓網站](http://pisces.ck.tp.edu.tw/~peng/index.php)
 01. [約爾談軟體](http://local.joelonsoftware.com/mediawiki/index.php/%E9%A6%96%E9%A0%81)
-02. [BigEndian 和 Little Endian 的比較](http://www.prudentman.idv.tw/2007/11/big-endianlittle-endian.html)
+01. [BigEndian 和 Little Endian 的比較](http://www.prudentman.idv.tw/2007/11/big-endianlittle-endian.html)
+01. [經典C程式 100 例](http://stenlyho.blogspot.com/search/label/%E7%B6%93%E5%85%B8c%E7%A8%8B%E5%BC%8F100%E4%BE%8B)
 
 ## 演算法
 
