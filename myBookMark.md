@@ -72,6 +72,10 @@
 
 ## WinPE 技術
 
+01. [NoName論壇(WinPE技術討論)](https://inonameteam.com/)
+01. [微剋多資訊](https://www.microduo.tw/)
+01. [AIO Boot](https://www.aioboot.com/en/)
+01. [http://multibootusb.org](http://multibootusb.org)
 01. [Windows7 x64 SP1 更新整合光碟製作](http://izaka.tw/w7sp2/)
 01. [無優啟動論壇](http://bbs.wuyou.net/forum.php)
 
