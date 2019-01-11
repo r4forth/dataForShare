@@ -206,6 +206,7 @@
 
 01. [MakerPro 自造達人社群](https://makerpro.cc/)
 02. [HighLowTech](http://highlowtech.org/)
+01. [硬派製作](https://sites.google.com/site/raspberrypidiy/home)
 
 # R 語言
 
@@ -222,6 +223,13 @@
 01. [R Tutorials](http://ww2.coastal.edu/kingw/statistics/R-tutorials/index.html)
 01. [實驗樓_R語言課程](https://www.shiyanlou.com/courses/?category=all&course_type=all&fee=all&unfold=1&tag=R&order=latest)
 01. [億聚網_R語言課程](https://www.1ju.org/r/index)
+01. [郭耀仁_認識 R 的美好](https://bookdown.org/tonykuoyj/eloquentr/)
+01. [郭耀仁_R 語言使用者的 Python 學習筆記](https://github.com/yaojenkuo/learn_python_for_a_r_user)
+01. [林茂廷_Shiny 入門](https://bookdown.org/tpemartin/shiny_intro/shiny-part-i.html)
+01. [曾意儒_資料科學與R語言](https://yijutseng.github.io/DataScienceRBook/)
+01. [Bookdown_書籍區](https://bookdown.org/home/tags/github/)
+01. []()
+01. []()
 
 ## 線上學習
 
@@ -239,3 +247,8 @@
 ## 資料 API
 
 01. [公共運輸整合資訊流通服務平台](https://ptx.transportdata.tw/PTX)
+
+## 與其他應用軟體合作
+
+01. [How to use Git with R and RStudio](http://www.geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/)
+01. []()
