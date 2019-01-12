@@ -1,10 +1,11 @@
 # MIS
 
-## 驅動程式
+## 硬體與驅動程式
 
 01. [安裝不知道硬體型號的驅動程式](http://cypresslin.web.fc2.com/Memo/M-WinDriver.html)
 01. [Thomas-Krenn-Wiki](https://www.thomas-krenn.com/en/wiki/Main_Page)
-
+01. [廉價版USBTTL_Win10驅動程式](https://www.ez2o.com/LIB/ezDownload/files/572/fssk52hj8xm.zip)
+01. [最新SSD固態硬碟顆粒SLC/MLC/TLC/QLC有什麼區別？](https://www.reneelab.net/difference-slc-mlc-tlc.html?fbclid=IwAR2et5HKAsA7wH9k02182rDysP0hJ_x5zrCn1NTVkPznRW4-oMMOx32YrVA)
 
 ## 軟體下載
 
@@ -21,15 +22,20 @@
 01. [Hoyo 樂咖黑的資訊生活](https://www.hoyo.idv.tw)
 01. [布丁布丁吃什麼?](http://blog.pulipuli.info/)
 01. [風月無邊](http://izaka.tw/)
+01. [robmiles](https://www.robmiles.com/journal?category=Windows+10)
+01. [Vamei](http://www.cnblogs.com/vamei/)
+01. []()
+01. []()
+
 
 ## 資訊安全
 
-01. [TWNIC WHOIS]()
-01. [TWNIC]()
-01. [行政院國家資通安全會報]()
-01. [國家資通安全通報應變網站]()
-01. [國家資通安全會報技術服務中心]()
-01. [臺灣學術網路危機處理中心]()
+01. [TWNIC WHOIS](http://whois.twnic.net.tw/)
+01. [TWNIC](https://www.twnic.net.tw/)
+01. [行政院國家資通安全會報](https://nicst.ey.gov.tw/)
+01. [國家資通安全通報應變網站](https://www.ncert.nat.gov.tw/)
+01. [國家資通安全會報技術服務中心](https://www.nccst.nat.gov.tw/)
+01. [臺灣學術網路危機處理中心](https://cert.tanet.edu.tw/prog/index.php)
 
 ## 運維 DevOPS
 
@@ -41,6 +47,7 @@
 01. [ServerWorld(JP/EN)](https://www.server-world.info/en/)
 01. [Ops 運維工具](http://www.opstool.com/)
 01. [運維派](http://www.yunweipai.com/)
+01. [Linux 運維日誌_CentOS](https://www.centos.bz/)
 
 ## 虛擬機
 
@@ -112,6 +119,8 @@
 
 01. [修正全字庫的第2、15字面字型檔，讓 Word2010 可正常使用](http://atic-tw.blogspot.com/2014/06/215-word2010.html)
 01. [網頁中文字型除了微軟正黑體, 還有這些好選擇！(windows)](https://www.wfublog.com/2014/08/web-chinese-font-choice.html)
+01. [開源中文字體](http://zenozeng.github.io/Free-Chinese-Fonts/)
+01. []()
 
 ## 造字
 
@@ -160,6 +169,10 @@
 01. [W3SCHOOL](https://www.w3schools.com/)
 01. [菜鳥教程](http://www.runoob.com/)
 01. [180 websites in 180 days.](https://jenniferdewalt.com/index.html)
+01. [vim-practice](https://github.com/oldratlee/vim-practice)
+01. [visual studio code](http://i5ting.github.io/vsc/#10803)
+01. []()
+01. []()
 
 
 ## JavaScript
@@ -186,6 +199,12 @@
 
 ## Python
 
+01. [Hello Py: Python 程式設計](https://bookdown.org/tonykuoyj/hello-py/#)
+01. [Begin to Code with Python](https://www.microsoftpressstore.com/store/begin-to-code-with-python-9781509304523#downloads)
+01. []()
+01. []()
+01. []()
+
 ### Django
 
 01. [Django Girls 官方教材中譯版](https://github.com/CarolHsu/tutorial)
@@ -198,6 +217,9 @@
 
 01. [Brad Nelson ForthHaiku](http://bradn123.github.io/)
 01. [FTP Taygeta](ftp://ftp.taygeta.com/pub/)
+01. [FORTH –A Very Special High Level Computer Language](http://www.exemark.com/FORTH.htm)
+01. [eForth and Zen](http://www.ultratechnology.com/efzen.htm)
+01. []()
 01. []()
 01. []()
 01. []()
@@ -207,6 +229,11 @@
 01. [MakerPro 自造達人社群](https://makerpro.cc/)
 02. [HighLowTech](http://highlowtech.org/)
 01. [硬派製作](https://sites.google.com/site/raspberrypidiy/home)
+01. [Troubleshooting cron on the Raspberry Pi](https://garyhall.org.uk/troubleshooting-cron-raspberry-pi.html)
+01. [vcgencmd 指令查看 Raspberry Pi 的 CPU 溫度、運行速度與電壓等資訊](https://blog.gtwang.org/iot/raspberry-pi-vcgencmd-hardware-information/)
+01. [IotPOS a Point of Sale for Raspberry Pi](https://hackaday.io/project/9798-iotpos-a-point-of-sale-for-raspberry-pi)
+01. [Typecho Plugins](https://plugins.typecho.me/)
+01. [Getting Started with Raspberry Pi 3](https://randomnerdtutorials.com/getting-started-with-raspberry-pi/)
 
 # R 語言
 
@@ -228,6 +255,10 @@
 01. [林茂廷_Shiny 入門](https://bookdown.org/tpemartin/shiny_intro/shiny-part-i.html)
 01. [曾意儒_資料科學與R語言](https://yijutseng.github.io/DataScienceRBook/)
 01. [Bookdown_書籍區](https://bookdown.org/home/tags/github/)
+01. [林茂廷_資料科學程式設計(一)](https://bookdown.org/tpemartin/ntpu-programming-for-data-science/)
+01. [謝益輝_R语言忍者秘笈](https://bookdown.org/yihui/r-ninja/)
+01. [Data Science Live Book](https://livebook.datascienceheroes.com/)
+01. [黄湘云_统计计算与图形](https://xiangyunhuang.github.io/ISCGwR/)
 01. []()
 01. []()
 
@@ -252,3 +283,7 @@
 
 01. [How to use Git with R and RStudio](http://www.geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/)
 01. []()
+
+## 常用技巧
+
+01. [How to Reverse a string in R](https://stackoverflow.com/questions/13612967/how-to-reverse-a-string-in-r)
