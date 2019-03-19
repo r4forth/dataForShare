@@ -25,3 +25,13 @@
 23. [Micro:bit系列教程23：Piano for micro:bit钢琴演奏](http://www.waveshare.net/study/article-872-1.html)
 24. [Micro:bit系列教程24：MCP23017 IO Expansion Board扩展IO资源](http://www.waveshare.net/study/article-873-1.html)
 25. [Micro:bit系列教程25：自定义Micro:bit软件包](http://www.waveshare.net/study/article-874-1.html)
+
+
+# 吉哥的分享
+
+* [個人網站](https://sites.google.com/jes.mlc.edu.tw/ljj/)
+* [Github](https://github.com/lioujj?tab=repositories)
+
+## 教學文章
+
+1. [電腦用序列埠和micro:bit溝通](https://sites.google.com/jes.mlc.edu.tw/ljj/microbit%E9%96%8B%E7%99%BC%E6%9D%BF/%E5%BA%8F%E5%88%97%E5%9F%A0%E5%92%8Cmicrobit%E6%BA%9D%E9%80%9A?authuser=0)
