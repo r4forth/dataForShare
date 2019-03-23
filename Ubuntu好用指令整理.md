@@ -1,3 +1,29 @@
+# 建立使用者
+
+```
+sudo adduser daniel
+```
+
+# 將某個使用者加入到 sudo 群組
+
+```
+sudo usermod -G sudo daniel
+
+# 測試是否能執行 sudo 權限的指令
+su - daniel
+sudo reboot
+```
+
+# 刪除使用者帳號
+
+```
+# 刪除使用者帳號，但不刪掉家目錄
+sudo deluser daniel
+
+# 刪除使用者帳號與家目錄
+sudo deluser daniel --remove-home
+```
+
 # 檢視使用者所屬群組
 
 * [查看user屬於那一個group ](https://go-linux.blogspot.com/2011/11/tips-usergroup.html)
