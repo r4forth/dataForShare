@@ -39,75 +39,110 @@
 
 天數 | 題目 | 學習進度 | 備註
 | :- | :- | :- | :- |
-[IT上櫃心法-0.準備上路](https://ithelp.ithome.com.tw/articles/10051317) | | 
-[IT上櫃心法-1.資訊稽核內稽內控循環](https://ithelp.ithome.com.tw/articles/10051473) | | 
-[IT上櫃心法-2.資訊部門管理辦法](https://ithelp.ithome.com.tw/articles/10051609) | | 
-[IT上櫃心法-3.網路架構圖](https://ithelp.ithome.com.tw/articles/10051876) | | 
-[IT上櫃心法-4.公司及資訊部門組織圖](https://ithelp.ithome.com.tw/articles/10052053) | | 
-[IT上櫃心法-5.資訊部門人員執掌](https://ithelp.ithome.com.tw/articles/10052323) | | 
-[IT上櫃心法-6.資訊部門年度目標與預算](https://ithelp.ithome.com.tw/articles/10052549) | | 
-[IT上櫃心法-7.程式開發及變更申請單據](https://ithelp.ithome.com.tw/articles/10052731) | | 
-[IT上櫃心法-8.資料修改申請單](https://ithelp.ithome.com.tw/articles/10052905) | | 
-[IT上櫃心法-9.系統文件](https://ithelp.ithome.com.tw/articles/10053121) | | 
-[IT上櫃心法-10.應用系統之使用者清單](https://ithelp.ithome.com.tw/articles/10053263) | | 
-[IT上櫃心法-11.應用系統之使用者權限申請單](https://ithelp.ithome.com.tw/articles/10053533) | | 
-[IT上櫃心法-12.查核年度新進人員清單](https://ithelp.ithome.com.tw/articles/10053733) | | 
-[IT上櫃心法-13.查核年度離職人員清單](https://ithelp.ithome.com.tw/articles/10053982) | | 
-[IT上櫃心法-14.軟硬體採購申請文件](https://ithelp.ithome.com.tw/articles/10054251) | | 
-[IT上櫃心法-15.資訊資產清冊](https://ithelp.ithome.com.tw/articles/10054477) | | 
-[IT上櫃心法-16.機房進出管制記錄](https://ithelp.ithome.com.tw/articles/10054706) | | 
-[IT上櫃心法-17.活動日誌覆核記錄](https://ithelp.ithome.com.tw/articles/10054993) | | 
-[IT上櫃心法-18.硬體維護及異常處理記錄](https://ithelp.ithome.com.tw/articles/10055231) | | 
-[IT上櫃心法-19.備份記錄（程式及檔案）](https://ithelp.ithome.com.tw/articles/10055517) | | 
-[IT上櫃心法-20.緊急應變計畫及測試記錄](https://ithelp.ithome.com.tw/articles/10055746) | | 
-[IT上櫃心法-21.資通安全政策](https://ithelp.ithome.com.tw/articles/10056007) | | 
-[IT上櫃心法-22.防火牆設定](https://ithelp.ithome.com.tw/articles/10056261) | | 
-[IT上櫃心法-23.電腦病毒及網路駭客入侵之防範機制](https://ithelp.ithome.com.tw/articles/10056418) | | 
-[IT上櫃心法-24.核心業務委外處理之管理辦法](https://ithelp.ithome.com.tw/articles/10056619) | | 
-[IT上櫃心法-25.軟硬體維護合約](https://ithelp.ithome.com.tw/articles/10056901) | | 
-[IT上櫃心法-26.公開資訊申報作業程序](https://ithelp.ithome.com.tw/articles/10057167) | | 
-[IT上櫃心法-27.資訊查核之覆核與改善](https://ithelp.ithome.com.tw/articles/10057337) | | 
-[IT上櫃心法-28.明天過後？美好的明天？](https://ithelp.ithome.com.tw/articles/10057545) | | 
-[IT上櫃心法-29.IT規劃的重要性](https://ithelp.ithome.com.tw/articles/10057731) | | 
-[IT上櫃心法-30.You Are Not Alone](https://ithelp.ithome.com.tw/articles/10057841) | | 
+| 01. | [IT上櫃心法-0.準備上路](https://ithelp.ithome.com.tw/articles/10051317) | | 
+| 02. | [IT上櫃心法-1.資訊稽核內稽內控循環](https://ithelp.ithome.com.tw/articles/10051473) | | 
+| 03. | [IT上櫃心法-2.資訊部門管理辦法](https://ithelp.ithome.com.tw/articles/10051609) | | 
+| 04. | [IT上櫃心法-3.網路架構圖](https://ithelp.ithome.com.tw/articles/10051876) | | 
+| 05. | [IT上櫃心法-4.公司及資訊部門組織圖](https://ithelp.ithome.com.tw/articles/10052053) | | 
+| 06. | [IT上櫃心法-5.資訊部門人員執掌](https://ithelp.ithome.com.tw/articles/10052323) | | 
+| 07. | [IT上櫃心法-6.資訊部門年度目標與預算](https://ithelp.ithome.com.tw/articles/10052549) | | 
+| 08. | [IT上櫃心法-7.程式開發及變更申請單據](https://ithelp.ithome.com.tw/articles/10052731) | | 
+| 09. | [IT上櫃心法-8.資料修改申請單](https://ithelp.ithome.com.tw/articles/10052905) | | 
+| 10. | [IT上櫃心法-9.系統文件](https://ithelp.ithome.com.tw/articles/10053121) | | 
+| 11. | [IT上櫃心法-10.應用系統之使用者清單](https://ithelp.ithome.com.tw/articles/10053263) | | 
+| 12. | [IT上櫃心法-11.應用系統之使用者權限申請單](https://ithelp.ithome.com.tw/articles/10053533) | | 
+| 13. | [IT上櫃心法-12.查核年度新進人員清單](https://ithelp.ithome.com.tw/articles/10053733) | | 
+| 14. | [IT上櫃心法-13.查核年度離職人員清單](https://ithelp.ithome.com.tw/articles/10053982) | | 
+| 15. | [IT上櫃心法-14.軟硬體採購申請文件](https://ithelp.ithome.com.tw/articles/10054251) | | 
+| 16. | [IT上櫃心法-15.資訊資產清冊](https://ithelp.ithome.com.tw/articles/10054477) | | 
+| 17. | [IT上櫃心法-16.機房進出管制記錄](https://ithelp.ithome.com.tw/articles/10054706) | | 
+| 18. | [IT上櫃心法-17.活動日誌覆核記錄](https://ithelp.ithome.com.tw/articles/10054993) | | 
+| 19. | [IT上櫃心法-18.硬體維護及異常處理記錄](https://ithelp.ithome.com.tw/articles/10055231) | | 
+| 20. | [IT上櫃心法-19.備份記錄（程式及檔案）](https://ithelp.ithome.com.tw/articles/10055517) | | 
+| 21. | [IT上櫃心法-20.緊急應變計畫及測試記錄](https://ithelp.ithome.com.tw/articles/10055746) | | 
+| 22. | [IT上櫃心法-21.資通安全政策](https://ithelp.ithome.com.tw/articles/10056007) | | 
+| 23. | [IT上櫃心法-22.防火牆設定](https://ithelp.ithome.com.tw/articles/10056261) | | 
+| 24. | [IT上櫃心法-23.電腦病毒及網路駭客入侵之防範機制](https://ithelp.ithome.com.tw/articles/10056418) | | 
+| 25. | [IT上櫃心法-24.核心業務委外處理之管理辦法](https://ithelp.ithome.com.tw/articles/10056619) | | 
+| 26. | [IT上櫃心法-25.軟硬體維護合約](https://ithelp.ithome.com.tw/articles/10056901) | | 
+| 27. | [IT上櫃心法-26.公開資訊申報作業程序](https://ithelp.ithome.com.tw/articles/10057167) | | 
+| 28. | [IT上櫃心法-27.資訊查核之覆核與改善](https://ithelp.ithome.com.tw/articles/10057337) | | 
+| 29. | [IT上櫃心法-28.明天過後？美好的明天？](https://ithelp.ithome.com.tw/articles/10057545) | | 
+| 30. | [IT上櫃心法-29.IT規劃的重要性](https://ithelp.ithome.com.tw/articles/10057731) | | 
+| 31. | [IT上櫃心法-30.You Are Not Alone](https://ithelp.ithome.com.tw/articles/10057841) | | 
 
 
 ## [微小企業IT Go](https://ithelp.ithome.com.tw/ironman/articles/137)
 
 天數 | 題目 | 學習進度 | 備註
 | :- | :- | :- | :- |
-[微小企業IT Go 建置企業資訊中心的基本心理建設](https://ithelp.ithome.com.tw/articles/10050865) | | 
-[微小企業IT Go 一圖勝千言萬語](https://ithelp.ithome.com.tw/articles/10051014) | | 
-[微小企業IT Go No money no talk!](https://ithelp.ithome.com.tw/articles/10051129) | | 
-[微小企業IT Go Server建置的程序](https://ithelp.ithome.com.tw/articles/10051289) | | 
-[微小企業IT Go 為企業取個好網名....(上篇)](https://ithelp.ithome.com.tw/articles/10051431) | | 
-[微小企業IT Go 為企業取個好網名...(下篇)](https://ithelp.ithome.com.tw/articles/10051545) | | 
-[微小企業IT Go 建置虛擬化資訊中心平台...(硬體篇)](https://ithelp.ithome.com.tw/articles/10051798) | | 
-[微小企業IT Go 建置虛擬化資訊中心平台...(軟體篇)](https://ithelp.ithome.com.tw/articles/10051953) | | 
-[微小企業IT Go 建置虛擬化資訊中心平台...(設定篇上集)](https://ithelp.ithome.com.tw/articles/10052236) | | 
-[微小企業IT Go 建置虛擬化資訊中心平台...(設定篇中集)](https://ithelp.ithome.com.tw/articles/10052401) | | 
-[微小企業IT Go [微小企業IT Go]建置虛擬化資訊中心平台...(設定篇下集)](https://ithelp.ithome.com.tw/articles/10052617) | | 
-[微小企業IT Go 建置虛擬化資訊中心平台...設定虛擬網路](https://ithelp.ithome.com.tw/articles/10052855) | | 
-[微小企業IT Go 建立虛擬機器](https://ithelp.ithome.com.tw/articles/10053065) | | 
-[微小企業IT Go 安裝第一個虛擬機器](https://ithelp.ithome.com.tw/articles/10053161) | | 
-[微小企業IT Go Windows 2008 Server R2的初始化設定工作](https://ithelp.ithome.com.tw/articles/10053376) | | 
-[微小企業IT Go Active Directory設定 (上篇)](https://ithelp.ithome.com.tw/articles/10053595) | | 
-[微小企業IT Go Active Directory...(下篇)](https://ithelp.ithome.com.tw/articles/10053851) | | 
-[微小企業IT Go Exchange Server 2010...前篇](https://ithelp.ithome.com.tw/articles/10054137) | | 
-[微小企業IT Go Exchange Server 2010安裝...上篇](https://ithelp.ithome.com.tw/articles/10054429) | | 
-[微小企業IT Go Exchange Server 2010安裝...(下篇)](https://ithelp.ithome.com.tw/articles/10054626) | | 
-[微小企業IT Go 收發email...Outlook設定篇](https://ithelp.ithome.com.tw/articles/10054867) | | 
-[微小企業IT Go Exchange Server 2010設定...上篇](https://ithelp.ithome.com.tw/articles/10055143) | | 
-[微小企業IT Go Exchange Server 2010設定...下篇](https://ithelp.ithome.com.tw/articles/10055389) | | 
-[微小企業IT Go 準備SQL Server及Shapreoint Server的安裝](https://ithelp.ithome.com.tw/articles/10055611) | | 
-[微小企業IT Go SQL Server 2008 R2 Express Advanced Services安裝](https://ithelp.ithome.com.tw/articles/10055908) | | 
-[微小企業IT Go Sharepoint Foundation Server 2010安裝...上篇](https://ithelp.ithome.com.tw/articles/10056131) | | 
-[微小企業IT Go Sharepoint Foundation Server 2010安裝...中篇](https://ithelp.ithome.com.tw/articles/10056321) | | 
-[微小企業IT Go Sharepoint Foundation Server 2010安裝...下篇](https://ithelp.ithome.com.tw/articles/10056449) | | 
-[微小企業IT Go Sharepoint Server的權限設定](https://ithelp.ithome.com.tw/articles/10056600) | | 
-[微小企業IT Go 還有那些要做呢?!](https://ithelp.ithome.com.tw/articles/10057096) | | 
+| 01. | [微小企業IT Go 建置企業資訊中心的基本心理建設](https://ithelp.ithome.com.tw/articles/10050865) | | 
+| 02. | [微小企業IT Go 一圖勝千言萬語](https://ithelp.ithome.com.tw/articles/10051014) | | 
+| 03. | [微小企業IT Go No money no talk!](https://ithelp.ithome.com.tw/articles/10051129) | | 
+| 04. | [微小企業IT Go Server建置的程序](https://ithelp.ithome.com.tw/articles/10051289) | | 
+| 05. | [微小企業IT Go 為企業取個好網名....(上篇)](https://ithelp.ithome.com.tw/articles/10051431) | | 
+| 06. | [微小企業IT Go 為企業取個好網名...(下篇)](https://ithelp.ithome.com.tw/articles/10051545) | | 
+| 07. | [微小企業IT Go 建置虛擬化資訊中心平台...(硬體篇)](https://ithelp.ithome.com.tw/articles/10051798) | | 
+| 08. | [微小企業IT Go 建置虛擬化資訊中心平台...(軟體篇)](https://ithelp.ithome.com.tw/articles/10051953) | | 
+| 09. | [微小企業IT Go 建置虛擬化資訊中心平台...(設定篇上集)](https://ithelp.ithome.com.tw/articles/10052236) | | 
+| 10. | [微小企業IT Go 建置虛擬化資訊中心平台...(設定篇中集)](https://ithelp.ithome.com.tw/articles/10052401) | | 
+| 11. | [微小企業IT Go [微小企業IT Go]建置虛擬化資訊中心平台...(設定篇下集)](https://ithelp.ithome.com.tw/articles/10052617) | | 
+| 12. | [微小企業IT Go 建置虛擬化資訊中心平台...設定虛擬網路](https://ithelp.ithome.com.tw/articles/10052855) | | 
+| 13. | [微小企業IT Go 建立虛擬機器](https://ithelp.ithome.com.tw/articles/10053065) | | 
+| 14. | [微小企業IT Go 安裝第一個虛擬機器](https://ithelp.ithome.com.tw/articles/10053161) | | 
+| 15. | [微小企業IT Go Windows 2008 Server R2的初始化設定工作](https://ithelp.ithome.com.tw/articles/10053376) | | 
+| 16. | [微小企業IT Go Active Directory設定 (上篇)](https://ithelp.ithome.com.tw/articles/10053595) | | 
+| 17. | [微小企業IT Go Active Directory...(下篇)](https://ithelp.ithome.com.tw/articles/10053851) | | 
+| 18. | [微小企業IT Go Exchange Server 2010...前篇](https://ithelp.ithome.com.tw/articles/10054137) | | 
+| 19. | [微小企業IT Go Exchange Server 2010安裝...上篇](https://ithelp.ithome.com.tw/articles/10054429) | | 
+| 20. | [微小企業IT Go Exchange Server 2010安裝...(下篇)](https://ithelp.ithome.com.tw/articles/10054626) | | 
+| 21. | [微小企業IT Go 收發email...Outlook設定篇](https://ithelp.ithome.com.tw/articles/10054867) | | 
+| 22. | [微小企業IT Go Exchange Server 2010設定...上篇](https://ithelp.ithome.com.tw/articles/10055143) | | 
+| 23. | [微小企業IT Go Exchange Server 2010設定...下篇](https://ithelp.ithome.com.tw/articles/10055389) | | 
+| 24. | [微小企業IT Go 準備SQL Server及Shapreoint Server的安裝](https://ithelp.ithome.com.tw/articles/10055611) | | 
+| 25. | [微小企業IT Go SQL Server 2008 R2 Express Advanced Services安裝](https://ithelp.ithome.com.tw/articles/10055908) | | 
+| 26. | [微小企業IT Go Sharepoint Foundation Server 2010安裝...上篇](https://ithelp.ithome.com.tw/articles/10056131) | | 
+| 27. | [微小企業IT Go Sharepoint Foundation Server 2010安裝...中篇](https://ithelp.ithome.com.tw/articles/10056321) | | 
+| 28. | [微小企業IT Go Sharepoint Foundation Server 2010安裝...下篇](https://ithelp.ithome.com.tw/articles/10056449) | | 
+| 29. | [微小企業IT Go Sharepoint Server的權限設定](https://ithelp.ithome.com.tw/articles/10056600) | | 
+| 30. | [微小企業IT Go 還有那些要做呢?!](https://ithelp.ithome.com.tw/articles/10057096) | | 
 
 ## [IT營運心法](https://ithelp.ithome.com.tw/ironman/articles/267)
+
+天數 | 題目 | 學習進度 | 備註
+| :- | :- | :- | :- |
+| 01. | (IT經歷－該準備什麼?)[https://ithelp.ithome.com.tw/articles/10098711]
+| 02. | (IT經歷－準備事項１－１)[https://ithelp.ithome.com.tw/articles/10098867]
+| 03. | (IT經歷－準備事項１－２)[https://ithelp.ithome.com.tw/articles/10099048]
+| 04. | (IT經歷－準備事項１－３)[https://ithelp.ithome.com.tw/articles/10099236]
+| 05. | (IT經歷－選擇！IT職業之路(２－１)[https://ithelp.ithome.com.tw/articles/10099412]
+| 06. | (IT經歷－選擇！IT職業之路(２－２)[https://ithelp.ithome.com.tw/articles/10099603]
+| 07. | (IT經歷－選擇！IT職業之路(２－３)[https://ithelp.ithome.com.tw/articles/10099783]
+| 08. | (IT經歷－選擇！IT職業之路(２－４)[https://ithelp.ithome.com.tw/articles/10099941]
+| 09. | (IT經歷－選擇！IT職業之路(２－５)[https://ithelp.ithome.com.tw/articles/10100176]
+| 10. | (IT經歷－選擇！IT職業之路(２－６)[https://ithelp.ithome.com.tw/articles/10100434]
+| 11. | (IT經歷－選擇！IT職業之路(２－７)[https://ithelp.ithome.com.tw/articles/10100649]
+| 12. | (IT經驗－決擇的關口！(３－１))[https://ithelp.ithome.com.tw/articles/10100959]
+| 13. | (IT經驗－決擇的關口！(３－２))[https://ithelp.ithome.com.tw/articles/10101206]
+| 14. | (IT經驗－決擇的關口！(３－３))[https://ithelp.ithome.com.tw/articles/10101416]
+| 15. | (IT經驗－決擇的關口！(３－４))[https://ithelp.ithome.com.tw/articles/10101653]
+| 16. | (IT經驗－決擇的關口！(３－５))[https://ithelp.ithome.com.tw/articles/10101923]
+| 17. | (IT經驗－開始上工拉!(４－１))[https://ithelp.ithome.com.tw/articles/10102397]
+| 18. | (IT經驗－開始上工拉!(４－２))[https://ithelp.ithome.com.tw/articles/10102701]
+| 19. | (IT經驗－開始上工拉!(４－３))[https://ithelp.ithome.com.tw/articles/10103073]
+| 20. | (IT經驗－開始上工拉!(４－４))[https://ithelp.ithome.com.tw/articles/10103392]
+| 21. | (IT經驗－開始上工拉!(４－５))[https://ithelp.ithome.com.tw/articles/10103710]
+| 22. | (IT經驗－上工之團隊挑選５－１)[https://ithelp.ithome.com.tw/articles/10104019]
+| 23. | (IT經驗－上工之團隊挑選５－２)[https://ithelp.ithome.com.tw/articles/10104351]
+| 24. | (IT經驗－上工之團隊挑選５－３)[https://ithelp.ithome.com.tw/articles/10104697]
+| 25. | (IT經驗－上工之團隊挑選５－４)[https://ithelp.ithome.com.tw/articles/10105025]
+| 26. | (IT經驗－上工之團隊挑選５－５)[https://ithelp.ithome.com.tw/articles/10105360]
+| 27. | (IT經驗－建構工作環境６－１)[https://ithelp.ithome.com.tw/articles/10105691]
+| 28. | (IT經驗－建構工作環境６－２)[https://ithelp.ithome.com.tw/articles/10105978]
+| 29. | (IT經驗－建構工作環境６－３)[https://ithelp.ithome.com.tw/articles/10106265]
+| 30. | (IT經驗－建構工作環境６－４)[https://ithelp.ithome.com.tw/articles/10106686]
+
+
 
 ## [IT原鄉人](https://ithelp.ithome.com.tw/ironman/articles/459?page=2)
 
