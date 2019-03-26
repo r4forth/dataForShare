@@ -1,7 +1,7 @@
 # 完全用 GNU/Linux 工作
 
 天數 | 題目 | 學習進度 | 備註
-| :- | :- | :- | :- | | | 
+| :- | :- | :- | :- |
 | 01. | [前言](https://ithelp.ithome.com.tw/articles/10127497) | | 
 | 02. | [建立開機媒體 (隨身碟、光碟)](https://ithelp.ithome.com.tw/articles/10127775) | | 
 | 03. | [網路設定](https://ithelp.ithome.com.tw/articles/10128081) | | 
