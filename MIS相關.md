@@ -1,6 +1,8 @@
 # 一般心法
 
 ## [無料才是王道](https://ithelp.ithome.com.tw/ironman/articles/24)
+  
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/%E7%84%A1%E6%96%99%E6%89%8D%E6%98%AF%E7%8E%8B%E9%81%93.md)
 
 ## [IT上櫃心法](https://ithelp.ithome.com.tw/ironman/articles/180)
 
