@@ -85,43 +85,43 @@
 
 ## [Linux及虛擬化平台維運分享](https://ithelp.ithome.com.tw/ironman/articles/654)
 
-* [文章整理]()
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/Linux%E5%8F%8A%E8%99%9B%E6%93%AC%E5%8C%96%E5%B9%B3%E5%8F%B0%E7%B6%AD%E9%81%8B%E5%88%86%E4%BA%AB.md)
 
 ## [現代 IT 人一定要知道的 Ansible 自動化組態技巧](https://ithelp.ithome.com.tw/ironman/articles/1022)
 
-* [文章整理]()
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/%E7%8F%BE%E4%BB%A3IT%E4%BA%BA%E4%B8%80%E5%AE%9A%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84Ansible%E8%87%AA%E5%8B%95%E5%8C%96%E7%B5%84%E6%85%8B%E6%8A%80%E5%B7%A7.md)
 
 ## [How to Install XXX Linux Using VMware ?](https://ithelp.ithome.com.tw/users/20060971/ironman/1604)
 
-* [文章整理]()
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/HowtoInstallXXXLinuxUsingVMware.md)
 
 ## [Linux學習](https://ithelp.ithome.com.tw/users/20111994/ironman/1803)
 
-* [文章整理]()
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/Linux%E5%AD%B8%E7%BF%92.md)
 
 ## [Linux 30天學習日誌](https://ithelp.ithome.com.tw/users/20111941/ironman/1811)
 
-* [文章整理]()
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/Linux30%E5%A4%A9%E5%AD%B8%E7%BF%92%E6%97%A5%E8%AA%8C.md)
 
 ## [30 天準備 LPI DevOps Tools Engineer 證照](https://ithelp.ithome.com.tw/users/20111953/ironman/1938)
 
-* [文章整理]()
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/30%E5%A4%A9%E6%BA%96%E5%82%99LPIDevOps%E8%AD%89%E7%85%A7.md)
 
 # 開源軟體
 
 ## [自由軟體，鼠到擒來！](https://ithelp.ithome.com.tw/ironman/articles/71)
 
-* [文章整理]()
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94%E9%BC%A0%E5%88%B0%E6%93%92%E4%BE%86.md)
 
 # 資安相關
 
 ## [利用開源軟體打造企業內部資安環境](https://ithelp.ithome.com.tw/users/20060971/ironman/1603)
 
-* [文章整理]()
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94%E9%BC%A0%E5%88%B0%E6%93%92%E4%BE%86.md)
 
 ## [資安動手做](https://ithelp.ithome.com.tw/users/20077752/ironman/1757)
 
-* [文章整理]()
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/%E8%B3%87%E5%AE%89%E5%8B%95%E6%89%8B%E5%81%9A.md)
 
 ## [網路釣魚實戰30天](https://ithelp.ithome.com.tw/users/20079169/ironman/1820)
 
