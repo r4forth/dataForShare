@@ -6,23 +6,41 @@
 
 ## [IT上櫃心法](https://ithelp.ithome.com.tw/ironman/articles/180)
 
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/IT%E4%B8%8A%E6%AB%83%E5%BF%83%E6%B3%95.md)
+
 ## [微小企業IT Go](https://ithelp.ithome.com.tw/ironman/articles/137)
+
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/%E5%BE%AE%E5%B0%8F%E4%BC%81%E6%A5%ADITGo.md)
 
 ## [IT營運心法](https://ithelp.ithome.com.tw/ironman/articles/267)
 
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/IT%E7%87%9F%E9%81%8B%E5%BF%83%E6%B3%95.md)
+
 ## [IT原鄉人](https://ithelp.ithome.com.tw/ironman/articles/459?page=2)
+
+* [文章整理]()
 
 ## [嫩嫩IT的成功歷程](https://ithelp.ithome.com.tw/ironman/articles/368)
 
+* [文章整理]()
+
 ## [IS理想的IT基礎建設](https://ithelp.ithome.com.tw/ironman/articles/832)
+
+* [文章整理]()
 
 ## [IT系統建置](https://ithelp.ithome.com.tw/users/20110771/ironman/1631)
 
+* [文章整理]()
+
 ## [IT人員面面觀](https://ithelp.ithome.com.tw/users/20107408/ironman/1637)
+
+* [文章整理]()
 
 # 機房維運
 
 ## [伺服器選購漫談](https://ithelp.ithome.com.tw/ironman/articles/38?page=1)
+
+* [文章整理]()
 
 ## [VMware vSphere Hypervisor (ESXi) 30天基礎速成班](https://ithelp.ithome.com.tw/ironman/articles/451)
 
