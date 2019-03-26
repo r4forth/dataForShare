@@ -62,25 +62,26 @@
 
 ## [Windows Server 儲存管理與應用](https://ithelp.ithome.com.tw/ironman/articles/790)
 
-* [文章整理]()
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/WindowsServer%E5%84%B2%E5%AD%98%E7%AE%A1%E7%90%86%E8%88%87%E6%87%89%E7%94%A8.md)
 
 # Linux 技術
 
 ## [Linux系統效能調教](https://ithelp.ithome.com.tw/ironman/articles/357)
 
-* [文章整理]()
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/Linux%E7%B3%BB%E7%B5%B1%E6%95%88%E8%83%BD%E8%AA%BF%E6%95%99.md)
 
 ## [Linux Pi的奇幻旅程](https://ithelp.ithome.com.tw/ironman/articles/535)
 
-* [文章整理]()
+* [文章整理](https://github.com/r4forth/dataForShare/edit/master/LinuxPi%E7%9A%84%E5%A5%87%E5%B9%BB%E6%97%85%E7%A8%8B.md)
 
 ## [現代環境下的 Linux 裡的新工具](https://ithelp.ithome.com.tw/ironman/articles/646?page=3)
 
-* [文章整理]()
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/%E7%8F%BE%E4%BB%A3%E7%92%B0%E5%A2%83%E4%B8%8B%E7%9A%84Linux%E8%A3%A1%E7%9A%84%E6%96%B0%E5%B7%A5%E5%85%B7.md)
 
 ## [完全用 GNU/Linux 工作](https://ithelp.ithome.com.tw/ironman/articles/579)
 
-* [文章整理]()
+* [文章整理](https://github.com/r4forth/dataForShare/blob/master/%E5%AE%8C%E5%85%A8%E7%94%A8GNULinux%20%E5%B7%A5%E4%BD%9C.md
+)
 
 ## [Linux及虛擬化平台維運分享](https://ithelp.ithome.com.tw/ironman/articles/654)
 
